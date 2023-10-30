@@ -68,17 +68,19 @@
 /*BODY*/
 .post-body {
   margin: 10px;
+  padding-bottom: 10px;
 }
 
 /*extras*/
 .border {
-  border: 3px black solid;
+
 }
 .border-edit {
-  border-bottom: 3px black solid;
+  
 }
 ul,
 li {
+  align-items: center;
   list-style: none;
   display: flex;
   flex-direction: row;
@@ -86,8 +88,9 @@ li {
   margin-left: -15px;
 }
 body {
-  background-color: rgb(61, 131, 250);
+  background-color: black;
   font-size: large;
   margin-left: 30%;
   margin-top: 100px;
 }
+
