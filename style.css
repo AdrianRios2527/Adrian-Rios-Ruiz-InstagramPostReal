@@ -72,12 +72,7 @@
 }
 
 /*extras*/
-.border {
 
-}
-.border-edit {
-  
-}
 ul,
 li {
   align-items: center;
@@ -94,3 +89,18 @@ body {
   margin-top: 100px;
 }
 
+
+.fa-regular{
+  font-size: 30px;
+  margin: 5px;
+}
+#html{
+  font-weight: bold;
+  font-size: medium;
+}
+.fa-brands{
+  font-size: 30px;
+}
+.fa-solid{
+  font-size: 30px;
+}
